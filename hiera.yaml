@@ -1,0 +1,11 @@
+---
+version: 5
+defaults:
+  datadir: data
+  data_hash: yaml_data
+hierarchy:
+    - name: 'default values'
+      path: 'defaults.yaml'
+
+    - name: "lookup options"
+      path: "lookup.yaml"

@@ -1,0 +1,5 @@
+---
+lookup_options:
+    "^mdb::.*":
+        merge: 'first'
+
